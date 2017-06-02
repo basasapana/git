@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.result = new System.Windows.Forms.TextBox();
-            this.Button18 = new System.Windows.Forms.Button();
+            
             this.Button17 = new System.Windows.Forms.Button();
             this.Button16 = new System.Windows.Forms.Button();
             this.Button15 = new System.Windows.Forms.Button();
